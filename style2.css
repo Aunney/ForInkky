@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: VT323;
+}
+
+
+.hbd {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(244, 255, 150);
+}
+
+.box {
+    width: 100%;
+    height: 120px
+}
+
+.ink {
+    width: 100%;
+}
+
+
+.bbox {
+    width: 100%;
+    height: 630px;
+    background-color: rgb(247, 227, 204);
+}
+.bless {
+    font-family: Itim;
+    font-size: 20px;
+    padding: 30px;
+    line-height: 32px;
+    color: rgb(59, 38, 20);
+}
+
+.ibox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.ink3, .ink4 {
+    width: 50%;
+    height: 50%;
+    display: flex;
+}
+
+
+.ink2 {
+    height: 75%;
+    width: 50%;
+}
+
+.ink6 {
+    height: 50%;
+    width: 50%;
+}
+
+.ink5 {
+    height: 50%;
+    width: 50%;
+}
+
